@@ -1,2 +1,6 @@
 import streamlit as st
-box = st.checkbox("")
+box1 = st.checkbox("")
+box2 = st.checkbox("")
+box2 = st.checkbox("")
+box2 = st.checkbox("")
+st.checkbox("")
